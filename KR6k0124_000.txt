@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 菩薩受齋經
+#+DATE: 2015-08-30 20:44:45.991660
+#+PROPERTY: JUAN 0
