@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:45.751908
+#+DATE: 2015-08-30 20:44:46.979838
 #+TITLE: 菩薩受齋經
 #+PROPERTY: CBETA_ID T24n1502
 #+PROPERTY: ID KR6k0124
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1502
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0124_T_000-1115c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0124_T_001-1115c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1502¶
-
- 《菩薩受齋經》¶
+No. 1502¶
+《菩薩受齋經》¶
 ¶
 西晉居士聶道真譯¶
 
