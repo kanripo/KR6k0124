@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:47.150128
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:08
 #+TITLE: 菩薩受齋經
 #+PROPERTY: CBETA_ID T24n1502
 #+PROPERTY: ID KR6k0124
@@ -95,7 +95,7 @@ No. 1502¶
 　神通聖智達，
 　照見我心情，¶
 　自歸諸大護，
-　百劫不動傾。
+　百劫不動傾。」
 #+END_VERSE
-」¶
+¶
 《菩薩受齋經》
